@@ -1,5 +1,5 @@
 # Simple Recomposition Calculator
-A simple script to calculator your nutritional macros based on Jeff Nippard's guide to Body Recomposition.
+A simple script to calculate your nutritional macros based on Jeff Nippard's Guide to Body Recomposition.
 
 ---
 
