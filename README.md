@@ -7,3 +7,4 @@ A simple script to calculator your nutritional macros based on Jeff Nippard's gu
 - [ ] To-do: Allow over-riding certain variables
 - [ ] To-do: Allow rewinding
 - [ ] To-do: Add more data verification checks
+- [ ] To-do: Add nutrional guidelines at the end
